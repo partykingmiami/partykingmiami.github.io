@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/partykingmiami
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://partyking.miami
+  * I am partykingmiami (https://keybase.io/partykingmiami) on keybase.
+  * I have a public key ASB5MTfzn_NUYnFkaJ0xBXM1n59ssntjigGLWiyn2-8jUgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120793137f39ff354627164689d310573359f9f6cb27b638a018b5a2ca7dbef23520a",
+      "host": "keybase.io",
+      "kid": "0120793137f39ff354627164689d310573359f9f6cb27b638a018b5a2ca7dbef23520a",
+      "uid": "ebdc4e505655cdc713b9d6ae3f8a8219",
+      "username": "partykingmiami"
+    },
+    "merkle_root": {
+      "ctime": 1590619711,
+      "hash": "2f69ff43e680c39fb22d50220b265ab6040b5ebec43ce3b7cefdc118a8dafb8c9efc86ef3858a302e63cf70bde896a35d041bf34bdefb30cb8fac03829707726",
+      "hash_meta": "b238e8b0dd685958f8e0b3739b12aef62c8a109160db31682c686c3aabc73781",
+      "seqno": 16425048
+    },
+    "service": {
+      "entropy": "nQwh52Oj/rmg12rhA7V1ieSq",
+      "hostname": "partyking.miami",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1590619776,
+  "expire_in": 504576000,
+  "prev": "168ad529a5d001300792b13fd7bbb476b682b3cacd92062862f612b3d695a2be",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeTE385/zVGJxZGidMQVzNZ+fbLJ7Y4oBi1osp9vvI1IKp3BheWxvYWTESpcCDMQgForVKaXQATAHkrE/17u0draCs8rNkgYoYvYSs9aVor7EIGS+kQNBpD7pF0r/TMxX23L61jBRlTbSJjo03e0RX2VLAgHCo3NpZ8RAvl90qFqxKjwdGsGlm2gz+05tUW79kypfx/ae4EHg7O6hSH9MT2QNR+0safRSfRlrIVTN/MDRaFvcf9y5Jx4CD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOo59nmLI6UweSwdVDh53Kxpux3gBwQN2UiUwmaaMzGzo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/partykingmiami
+
+==================================================================
